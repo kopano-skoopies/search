@@ -1,5 +1,5 @@
 # cs50w-project0
 
- This is my first git repository
 
- Check this link: www.google.com
+
+ Check this link: https://youtu.be/6dDE39Uzmco
